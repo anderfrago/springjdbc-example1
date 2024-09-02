@@ -1,5 +1,5 @@
 
-#Spring JDBC Datuetarako sarbidea
+# Spring JDBC Datuetarako sarbidea
 
 ## Ikuspegi orokorra
 Proiektu honetan, Springeko JDBC moduluaren erabilera praktikoko kasuak aztertuko ditugu. Spring JDBCko klaseak lau pakete ezberdinetan antolatzen dira:
